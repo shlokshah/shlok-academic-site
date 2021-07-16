@@ -1,7 +1,7 @@
 ---
 title: Shlok Shah
 role: MS Computer Science
-avatar_filename: 37837593_10204510774005212_4994639682089254912_n.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
