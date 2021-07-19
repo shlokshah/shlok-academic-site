@@ -5,25 +5,22 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Data Analytics
+  - Algorithm Design
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/shlok_shah_
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/shlokshah
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shlokshah/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/shlok_shah_
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
@@ -39,9 +36,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a [MS CS](https://www.cc.gatech.edu/future/masters/mscs) student at the School of Computer Science within the College of Computing at Georgia Tech. I graduated from NMIMS University, Mumbai in 2020 with a bachelor’s degree in Computer Engineering.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My long term goal is to help develop ideas into software products that have the ability to impact everyday life. \*\*\*\*Add\*\*\*\*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also enjoy hiking, football, cycling and informed discussions on economics, politics and business ideas.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
