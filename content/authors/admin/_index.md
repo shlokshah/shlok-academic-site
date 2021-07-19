@@ -42,4 +42,4 @@ My long term goal is to help develop ideas into software products that have the 
 
 I also enjoy hiking, football, cycling and informed discussions on economics, politics and business ideas.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shlok Shah_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
